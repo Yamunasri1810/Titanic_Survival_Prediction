@@ -1,6 +1,6 @@
-# CODSOFT_task1
 
-Titanic Survival Prediction Data Science Model
+
+# Titanic Survival Prediction Data Science Model
 
 Step 1: Problem Definition
 Predicting whether the passenger traveled in the Titanic Survived or not.
